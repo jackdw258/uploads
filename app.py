@@ -1,2 +1,2 @@
 import webbrowser
-webbrowser.open('https://www.google.com')
+webbrowser.open('https://www.example.com')
